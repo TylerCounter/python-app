@@ -20,3 +20,5 @@ a = int(input('celcius değer girin :'))  # Celsius u Fahrenat'e çevirme.
 b = a*9/5+32
 
 print(b)
+
+print("Clarusway")
