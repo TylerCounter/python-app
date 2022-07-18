@@ -23,3 +23,4 @@ print(b)
 print("Hello Cohort-12")
 
 #fork icin ders denemesi
+#yine bir fork denemesi
