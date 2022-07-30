@@ -100,3 +100,4 @@ print("Hahahaha")
 print("have nice holiday")
 
 print("yavaş öğreniyorum galiba")
+print ( "HELLO GALAXY - HELLO DUNYALILAR-edited by Ayhan")
