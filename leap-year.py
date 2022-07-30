@@ -100,3 +100,6 @@ print("Hahahaha")
 print("have nice holiday")
 
 print("yavaş öğreniyorum galiba")
+
+print("if not now, when - F4440") 
+
