@@ -35,7 +35,7 @@ def CheckLeap(year) :
   # Checking if the given year is leap year  
 
 
-print("merhaba")
+print("merhaba Dünya")
 
 
 x = 6
