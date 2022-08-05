@@ -128,3 +128,4 @@ print(0 or "False" and None)
 print("False" or 0 and None)
 
 # Not : Dosyalar Colab'da oluşturulmuştur.
+        amaç çeşitli python kommutlarının anlaşılmasıdır.
