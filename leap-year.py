@@ -32,8 +32,7 @@ for i in new_number :
 print(count)
 # Default function to implement conditions to check leap year  
 def CheckLeap(year) :  
-  # Checking if the given year is leap year  
-
+  # Checking if the given year is leap year, it'OK if that's true. 
 
 print("merhaba")
 
