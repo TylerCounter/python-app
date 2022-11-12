@@ -1,5 +1,11 @@
-# python-app
-Rose çalışıyor. Hocam rica etsem confirm merge yapabilir misiniz ?
 
+
+
+
+
+
+
+
+EMRE EMRE EMRE EMRE 
 
 
