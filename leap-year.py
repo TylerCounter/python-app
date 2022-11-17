@@ -1,13 +1,14 @@
- Umut çalışıyor...
+# #  Umut çalışıyor...
 
 
 
-# **Exercise | ?comprehension | ?range() | ?len() | ?nested for loop() | ?any() | ?sum() | ?append()**
-# 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
-# What is the smallest positive number which  is evenly divisible by all of the numbers from 1 to 20?
-# MClay
+# # **Exercise | ?comprehension | ?range() | ?len() | ?nested for loop() | ?any() | ?sum() | ?append()**
+# # 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+# # What is the smallest positive number which  is evenly divisible by all of the numbers from 1 to 20?
+# # MClay
+
 nums_prime = []
-
+nums = 1
 for i in nums :
   prime = []
   for j in range(2,i) :
@@ -30,73 +31,75 @@ count = 1
 for i in new_number :
   count *= i
 print(count)
-# Default function to implement conditions to check leap year  
-def CheckLeap(year) :  
-  # Checking if the given year is leap year  
+
+# # Default function to implement conditions to check leap year 
+# #  
+# def CheckLeap(year) :  
+#   # Checking if the given year is leap year  
 
 
-print("merhaba")
+# print("merhaba")
 
 
-x = 6
+# x = 6
 
-while x < 15:
-	print(x)
-	x += 1
-
-
-
-print("saık erdemmir")
-
-
-print(b)
+# while x < 15:
+# 	print(x)
+# 	x += 1
 
 
 
-
-x = 6
-
-while x < 15:
-	print(x)
-	x += 1
+# print("saık erdemmir")
 
 
-#code bug control
+# print(b)
 
 
 
-print("All rights are reserved")
+
+# x = 6
+
+# while x < 15:
+# 	print(x)
+# 	x += 1
 
 
-print(b)
-print("Hello Cohort-12")
+# #code bug control
 
 
-print(b)
-print("Hello Cohort-12")
 
-print("MErhabalar")
+# print("All rights are reserved")
 
 
-print(b)
-
-<<<<<<< HEAD
-print("Hello Cohort-12")
-
-print("Buraya bakarlar")
-
-print ("merhaba")
-
-print("Hello Cohort-12
-
-x = 6
-
-while x < 15:
-	print(x)
-	x += 1
-print("Hahahaha")
+# print(b)
+# print("Hello Cohort-12")
 
 
-print("have nice holiday")
+# print(b)
+# print("Hello Cohort-12")
 
-print("yavaş öğreniyorum galiba")
+# print("MErhabalar")
+
+
+# print(b)
+
+# <<<<<<< HEAD
+# print("Hello Cohort-12")
+
+# print("Buraya bakarlar")
+
+# print ("merhaba")
+
+# print("Hello Cohort-12
+
+# x = 6
+
+# while x < 15:
+# 	print(x)
+# 	x += 1
+# print("Hahahaha")
+
+
+# print("have nice holiday")
+
+# print("yavaş öğreniyorum galiba")
