@@ -1,5 +1,5 @@
  Umut çalışıyor...
-
+#This is just to validate the widgets that need to appear in the dashboard. 
 
 
 # **Exercise | ?comprehension | ?range() | ?len() | ?nested for loop() | ?any() | ?sum() | ?append()**
