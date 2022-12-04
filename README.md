@@ -1,5 +1,5 @@
+Ahmet çalışma
 
-asli 
 
 
 
