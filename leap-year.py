@@ -1,5 +1,7 @@
- Umut çalışıyor...
-
+# Umut calisiyor...
+import time '''I am putting it here to if it could be required in any case.
+            Because 'while' loops may cause endless loops, computers crash. 
+            give it a short time like "time.sleep(0.1)" '''
 
 
 # **Exercise | ?comprehension | ?range() | ?len() | ?nested for loop() | ?any() | ?sum() | ?append()**
